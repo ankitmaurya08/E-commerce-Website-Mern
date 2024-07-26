@@ -1,3 +1,4 @@
+
 # E-commerce Website
 
 ## Objective
@@ -99,3 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - Inspiration from various e-commerce platforms.
 
+![Ecommerce home](https://github.com/user-attachments/assets/20b25b6a-dbae-4d0d-b953-87e695875623)
+![admin](https://github.com/user-attachments/assets/5c056812-decc-4a47-a581-b6c958405af0)
+![addproduct](https://github.com/user-attachments/assets/fc8a129d-32b5-4fd1-bbe8-a45fc6d00cb6)
